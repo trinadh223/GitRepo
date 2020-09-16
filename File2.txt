@@ -1,4 +1,5 @@
 To work on CR1 - Payment gateway
 
-Change to chech push
-change to test pull made by a team mate for WI6
+Change -> to chech push
+change -> to test pull made by a team mate for WI6
+change -> to test rebase with conflict with local master and remote master , made by a team mate for WI7 
