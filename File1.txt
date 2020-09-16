@@ -7,3 +7,5 @@ Change2 -> Logout feature
 Change3 -> Enhancement for login feature
 
 Change4 -> bug fixed!
+
+Change5 -> Made a change by a Team mate in WI4
