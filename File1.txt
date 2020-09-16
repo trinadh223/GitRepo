@@ -1,11 +1,14 @@
 Hello World
 
-Change1 -> Login Feature
+Change1: -> Login Feature
 
-Change2 -> Logout feature
+Change2: -> Logout feature
 
-Change3 -> Enhancement for login feature
+Change3: -> Enhancement for login feature
 
-Change4 -> bug fixed!
+Change4: -> bug fixed!
 
-Change5 -> Made a change by a Team mate in WI4
+Change5: -> Made a change by a Team mate in WI4
+
+Change6: -> bug2 fix !
+
